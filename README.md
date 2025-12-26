@@ -40,15 +40,16 @@ The application was successfully deployed and accessed publicly.
 ## Screenshots
 
 ### Amazon EKS Cluster
-[](https://github.com/iamdeepaktiwari08/AWS-eks-nginx-deployment/blob/main/eks-nginx-deployment/%E2%94%80%20screenshots/AWS-EKS-CLUSTER.PNG)
-### EC2 Instance
-![EC2](./─%20screenshots/AWS-EC2.png)
+![EKS Cluster](screenshots/AWS-EKS-CLUSTER.PNG)
+
+### EC2 Worker Node
+![EC2](screenshots/AWS-EC2.png)
 
 ### Kubernetes Deployment (Terminal)
-![Terminal](./─%20screenshots/terminal.png)
+![Terminal](screenshots/terminal.png)
 
-### Application Output (Nginx)
-![Nginx](./─%20screenshots/Nginx.png)
+### Application Output
+![Nginx](screenshots/Nginx.png)
 - Hands-on experience with Amazon EKS
 - Understanding of Kubernetes Deployments and Services
 - Real-world troubleshooting of node group and networking issues
