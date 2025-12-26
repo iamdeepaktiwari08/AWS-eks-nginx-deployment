@@ -40,18 +40,16 @@ The application was successfully deployed and accessed publicly.
 ## Screenshots
 
 ### Amazon EKS Cluster
-![EKS Cluster](screenshots/AWS-EKS-CLUSTER.PNG)
+![EKS Cluster](─%20screenshots/AWS-EKS-CLUSTER.PNG)
 
-### EC2 Worker Node
-![EC2](screenshots/AWS-EC2.png)
+### EC2 Instance
+![EC2](─%20screenshots/AWS-EC2.png)
 
 ### Kubernetes Deployment (Terminal)
-![Terminal](screenshots/terminal.png)
+![Terminal](─%20screenshots/terminal.png)
 
-### Application Output
-![Nginx](screenshots/Nginx.png)---
-
-## Key Learnings
+### Application Output (Nginx)
+![Nginx](─%20screenshots/Nginx.png)## Key Learnings
 
 - Hands-on experience with Amazon EKS
 - Understanding of Kubernetes Deployments and Services
