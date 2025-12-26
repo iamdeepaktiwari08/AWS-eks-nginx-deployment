@@ -37,17 +37,26 @@ User → AWS Load Balancer → Kubernetes Service → Pod (Nginx)
 The application was successfully deployed and accessed publicly.
 
 ---
+## Screenshots
 
-## Screenshot
+### Amazon EKS Cluster
+![EKS Cluster](screenshots/AWS-EKS-CLUSTER.PNG)
 
-![Nginx Running](screenshots/nginx-running.png)
+### EC2 Worker Node
+![EC2](screenshots/AWS-EC2.png)
 
----
+### Kubernetes Deployment (Terminal)
+![Terminal](screenshots/terminal.png)
+
+### Application Output
+![Nginx](screenshots/Nginx.png)---
 
 ## Key Learnings
 
 - Hands-on experience with Amazon EKS
 - Understanding of Kubernetes Deployments and Services
 - Real-world troubleshooting of node group and networking issues
+## Thank You
 
----
+Thank you for visiting this repository.  
+Your feedback is appreciated.
