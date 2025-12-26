@@ -40,8 +40,8 @@ The application was successfully deployed and accessed publicly.
 ## Screenshots
 
 ### Amazon EKS Cluster
-![EKS Cluster](./─%20screenshots/AWS-EKS-CLUSTER.PNG)
-
+[
+](https://github.com/iamdeepaktiwari08/AWS-eks-nginx-deployment/blob/main/eks-nginx-deployment/%E2%94%80%20screenshots/AWS-EKS-CLUSTER.PNG)
 ### EC2 Instance
 ![EC2](./─%20screenshots/AWS-EC2.png)
 
